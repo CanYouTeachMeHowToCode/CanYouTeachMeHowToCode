@@ -26,12 +26,4 @@ A full-stack app that tracks *Sekiro* boss attempts and shows which moves keep k
 | [Reading Comprehension with Small Transformers](https://github.com/CanYouTeachMeHowToCode/Multiple-Choice-Reading-Comprehension-with-Small-Transformer-Models) | Multiple-choice reading comprehension with small transformer models (CMU 11-711) |
 | [Virus Infection Game](https://github.com/CanYouTeachMeHowToCode/Virus-Infection-Game) | An upgraded version of my CMU 15-112 term project |
 
-### 🧰 Tools I use
-
-- **Backend:** Java, Spring Boot, Python, FastAPI, REST APIs, PostgreSQL, SQLAlchemy
-- **Messaging:** JMS, Tibco EMS, Solace
-- **Observability & delivery:** Grafana, Prometheus, Loki, Jenkins, GitHub Actions, Docker
-- **Frontend:** React, TypeScript
-- **Machine learning:** forecasting models, reinforcement learning, transformers
-
 <img src="https://github-readme-stats.vercel.app/api?username=CanYouTeachMeHowToCode&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
