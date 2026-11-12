@@ -2,11 +2,6 @@
 
 I'm a backend engineer in New York who works on messaging infrastructure and observability. I studied Statistics & Machine Learning at Carnegie Mellon and AI at Duke.
 
-- 🔧 **Recent work:** a zero-downtime migration of a JMS messaging platform from Tibco EMS to Solace, priority-aware message dispatching, and monitoring with Grafana / Prometheus / Loki
-- ⚔️ **Side project:** building a practice-analytics app for *Sekiro: Shadows Die Twice* bosses, and teaching it to read gameplay recordings
-- 🌱 **Currently learning:** React + TypeScript and frontend testing
-- 💬 **Ask me about:** JMS and Solace, observability, or how to beat Genichiro
-
 ---
 
 ### ⚔️ Featured: [Sekiro Boss Practice Analytics](https://github.com/CanYouTeachMeHowToCode/Sekiro-boss-practice-analytics)
